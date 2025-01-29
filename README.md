@@ -6,7 +6,7 @@ Here's your rewritten README for **Cake AI by Quant Cake LLC** with a compelling
 
 <div align="center">
 	<img
-		src="./src/media/cake_ai_logo.png"
+		src="./src/media/cakeai.png"
 	 	alt="Cake AI Logo"
 		width="300"
 	 	height="300"
