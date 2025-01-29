@@ -1,0 +1,44 @@
+{
+	"nameShort": "cakeai",
+	"nameLong": "cakeai",
+	"applicationName": "cakeai",
+	"dataFolderName": ".cakeai-editor",
+	"win32MutexName": "cakeaieditor",
+	"licenseName": "MIT",
+	"licenseUrl": "https://github.com/cakeaieditor/cakeai/blob/main/LICENSE.txt",
+	"serverLicenseUrl": "https://github.com/cakeaieditor/cakeai/blob/main/LICENSE.txt",
+	"serverGreeting": [],
+	"serverLicense": [],
+	"serverLicensePrompt": "",
+	"serverApplicationName": "cakeai-server",
+	"serverDataFolderName": ".cakeai-server",
+	"tunnelApplicationName": "cakeai-tunnel",
+	"win32DirName": "cakeai",
+	"win32NameVersion": "cakeai",
+	"win32RegValueName": "cakeaiEditor",
+	"win32x64AppId": "{{9D394D01-1728-45A7-B997-A6C82C5452C3}",
+	"win32arm64AppId": "{{0668DD58-2BDE-4101-8CDA-40252DF8875D}",
+	"win32x64UserAppId": "{{8BED5DC1-6C55-46E6-9FE6-18F7E6F7C7F1}",
+	"win32arm64UserAppId": "{{F6C87466-BC82-4A8F-B0FF-18CA366BA4D8}",
+	"win32AppUserModelId": "cakeai.Editor",
+	"win32ShellNameShort": "V&oid",
+	"win32TunnelServiceMutex": "cakeai-tunnelservice",
+	"win32TunnelMutex": "cakeai-tunnel",
+	"darwinBundleIdentifier": "com.cakeaieditor.code",
+	"linuxIconName": "cakeai-editor",
+	"licenseFileName": "LICENSE.txt",
+	"reportIssueUrl": "https://github.com/cakeaieditor/cakeai/issues/new",
+	"nodejsRepository": "https://nodejs.org",
+	"urlProtocol": "cakeai-editor",
+	"configurationDefaults": {
+		"workbench.colorTheme": "cake-ai-dark"
+	  },
+	  "extensionEnabledApiProposals": {
+		"vscode.theme-defaults": ["theme-external"]
+	  },
+	"extensionsGallery": {
+		"serviceUrl": "https://open-vsx.org/vscode/gallery",
+		"itemUrl": "https://open-vsx.org/vscode/item"
+	},
+	"builtInExtensions": []
+}
