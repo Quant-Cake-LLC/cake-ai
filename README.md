@@ -1,4 +1,3 @@
-Here's your rewritten README for **Cake AI by Quant Cake LLC** with a compelling backstory and engaging tone:
 
 ---
 
