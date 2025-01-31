@@ -67,7 +67,7 @@ Cake AI is built on the solid foundations of **modern open-source technology**. 
 ## 🛠️ Need Support?
 
 - Reach out on **Discord**
-- Email us at **hello@quantcake.com**
+- Email us at **hello@quantcake.ai**
 
 **Let’s make AI-assisted coding a piece of cake.** 🍰
 
